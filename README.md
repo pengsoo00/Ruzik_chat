@@ -4,6 +4,13 @@
 
 ## Команды
 
+Страница сообщества demo_ruzik - https://vk.com/club225397199 .
+
+Для перехода в чат Рузик нажмите на "сообщение", затем на "Перейти к диалогу с сообществом".
+
+<img width="542" alt="Снимок экрана 2024-06-09 193634" src="https://github.com/pengsoo00/Ruzik_chat/assets/80839934/9cda55a3-2834-4ecc-ae35-9e20b4bfb2f1">
+
+
 ### Пользовательский вход
 
 <img width="334" alt="demo_ruzik_for_client" src="https://github.com/pengsoo00/Ruzik_chat/assets/80839934/7f76b7ea-bac1-426e-8ad3-fa3b56ab8ec8">
@@ -16,7 +23,7 @@
 
 - __На счете__ - показ балл(а/ов) пользователя.
 
-### Админ вход
+### Административный вход
 
 <img width="331" alt="Снимок экрана 2024-06-09 191028" src="https://github.com/pengsoo00/Ruzik_chat/assets/80839934/a38e7815-2f46-4f08-bf03-2c01fd9c974e">
 
